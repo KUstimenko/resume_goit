@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "..\\..\\..\\Project"
+	},
+	{
+		"path": "..\\..\\..\\my-resume"
+	},
+	{
+		"path": "..\\..\\..\\Project2"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "my-resume"
+  }
+}
